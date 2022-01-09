@@ -6,7 +6,7 @@
               @submit.prevent="save">
         <v-layout row wrap align-top fill-height>
           <v-flex
-              class="p-photo pa-2"
+              class="p-photo pa-2 p-left"
               xs12 sm4 md2
           >
             <v-card tile
