@@ -2,7 +2,7 @@
   <div class="p-tab p-tab-photo-details">
     <v-container fluid>
       <v-form ref="form" lazy-validation
-              dense class="p-form-photo-details-meta" accept-charset="UTF-8"
+              dense class="p-form-photo-details-meta p-photo a-photo" accept-charset="UTF-8"
               @submit.prevent="save">
         <v-layout row wrap align-top fill-height>
           <v-flex
